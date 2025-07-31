@@ -1,8 +1,10 @@
 https://github.com/tmdghtndud/SBS_20250731
 
+[해야할거]
 1. Visual Studio 2022 Community 설치
 2. Github Desktop 으로 Clone
- Github Desktop - File - Clone Repository
- 레포지토리 고르고, Local Path 설정
-3. Clone 누르면, Local Path에 받아져 있음.
+  2-1. Github Desktop - File - Clone Repository
+  2-2. 레포지토리 고르고, Local Path 설정
+  2-3. Clone 누르면, Local Path에 받아져 있음.
+3. 20250731.sln 실행, Visual Studio 2022 로 열리는지 확인.
 
