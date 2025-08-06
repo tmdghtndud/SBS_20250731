@@ -167,7 +167,7 @@ void example5()
 	int num1 = 0;
 	printf("num1을 입력해주세요 : ");
 	scanf_s("%d", &num1);
-
+	
 	int num2 = 0;
 	printf("num2을 입력해주세요 : ");
 	scanf_s("%d", &num2);
