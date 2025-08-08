@@ -63,14 +63,16 @@ int main()
 		for (int j = 0; j < 5; j++)
 		{
 			printf("%02d  ", user[i * 5 + j]);
-			/*if (체크되었다)
+			/*
+			if (체크되었다)
 			{
 				printf("XX  ");
 			}
 			else
 			{
 				printf("%02d  ", user[i * 5 + j]);
-			}*/
+			}
+			*/
 		}
 		printf("\n");
 	}
